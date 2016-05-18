@@ -1,2 +1,2 @@
 # BookDrafts
-> Draft work for possble book ideals 
+> Draft work for hair brained ideals 
